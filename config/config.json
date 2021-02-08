@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "a2056123",
+    "database": "bearhand",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "a2056123",
+    "database": "bearhand",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "a2056123",
+    "database": "bearhand",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
